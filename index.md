@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Lung Diagnostic | By Henry Sze
 
 You can use the [editor on GitHub](https://github.com/HenrySze/CSci-39542-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
