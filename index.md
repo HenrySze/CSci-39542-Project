@@ -1,6 +1,6 @@
 ## Lung Diagnostic | By Henry Sze
 
-![Lung Logo](/CSci-39542-Project/assets/logo.jpg)
+![Lung Logo](CSci-39542-Project/logo.jpg)
 
 Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung illnesses, Lung Diagnostic helps to show all people the result of bad habits as well as the importance of keeping our lungs healthy
 
