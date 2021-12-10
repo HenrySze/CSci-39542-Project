@@ -1,5 +1,9 @@
 ## Lung Diagnostic | By Henry Sze
 
+![Lung Logo](/CSci-39542-Project/assets/logo.jpg)
+
+Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung illnesses, Lung Diagnostic helps to show all people the result of bad habits as well as the importance of keeping our lungs healthy
+
 You can use the [editor on GitHub](https://github.com/HenrySze/CSci-39542-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
