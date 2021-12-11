@@ -3,7 +3,7 @@
 ![Lung Logo](https://nddmed.com/_Resources/Persistent/999d87c888206d2cdba2532539367ce3646670b2/lunghealthmatters_100-2508x1410-800x450.jpg)
 
 ### Introduction
-Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung illnesses, Lung Diagnostic helps to show all people the result of bad habits as well as the importance of keeping our lungs healthy
+Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung illnesses, Lung Diagnostic helps to show all people the result of bad habits as well as the importance of keeping our lungs healthy. This project utilizes a dataset sourced from Kaggle which displays a list of people who have lung cancer as well as information regarding whether or not they smoke cigarettes or suffer from anxiety. The underlying hypothesis is that people who habitually smoke are more prone to lung cancer. The tools used here was <Input Tools Here>.
 
 You can use the [editor on GitHub](https://github.com/HenrySze/CSci-39542-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
