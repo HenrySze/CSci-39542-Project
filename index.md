@@ -10,7 +10,7 @@ Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung il
 The Kaggle dataset used is comprised of 10 different columns. It is also known that the entire dataset represents people who were indeed diagnosed with lung cancer and only show whether or not they show such symptoms. Our first column depicts the gender in which shows whether or not patients are male (M) or female (F). The second column shows the patients age. The third shows whether or not they smoke with a '2' representing a yes and a '1' representing a no. The following columns are also similar in a sense that they all only depict whether or not the patients suffer from the given symptoms such as yellow fingers, anxiety, etc...
   
 ### Techniques Used
-  
+For this project, I used multiple Python libraries and techniques to help me. First, I used Pandas and Numpy to import and parse through the given dataset while taking only the information I need. Then to show visual representation, I use a library like Seaborn or MatPlotLib to create charts. 
   
 ### Citations
 - Bhat, Mysar Ahmad. “Lung Cancer.” Kaggle, 1 Oct. 2021, https://www.kaggle.com/mysarahmadbhat/lung-cancer. 
