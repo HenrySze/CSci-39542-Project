@@ -14,7 +14,7 @@ Inspired by the recent Cornavirus Pandemic as well as a rise in cases of lung il
   
 ### Citations
 - Bhat, Mysar Ahmad. “Lung Cancer.” Kaggle, 1 Oct. 2021, https://www.kaggle.com/mysarahmadbhat/lung-cancer. 
-- “Lung Disease.” Lung Disease | Office on Women's Health, https://www.womenshealth.gov/a-z-topics/lung-disease. 
+- “Lung Disease.” Lung Disease - Office on Women's Health, https://www.womenshealth.gov/a-z-topics/lung-disease. 
 - “Lung Disease: Medlineplus Medical Encyclopedia.” MedlinePlus, U.S. National Library of Medicine, https://medlineplus.gov/ency/article/000066.htm. 
 - Hoffman, Matthew. “Types of Lung Diseases &amp; Their Causes.” WebMD, WebMD, https://www.webmd.com/lung/lung-diseases-overview. 
 - Academic.oup.com, https://academic.oup.com/carcin/article/27/7/1432/2391025. 
